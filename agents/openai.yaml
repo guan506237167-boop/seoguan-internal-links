@@ -1,0 +1,4 @@
+interface:
+  display_name: "关山阅·网站内部链接规划"
+  short_description: "根据已有文章、产品页和站点目标规划相关内部链接及自然锚文本。适用于内容互联与采购路径优化，不自动改站。"
+  default_prompt: "使用 $seoguan-internal-links，根据我提供的材料完成网站内部链接规划，保留证据与未确认项。"
